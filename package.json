@@ -1,0 +1,47 @@
+{
+  "_from": "github:mineline/node-mapcrafter#master",
+  "_id": "node-mapcrafter@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/node-mapcrafter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:mineline/node-mapcrafter#master",
+    "rawSpec": "github:mineline/node-mapcrafter#master",
+    "saveSpec": "github:mineline/node-mapcrafter#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:mineline/node-mapcrafter#4d7f34d9605c49acf744bf43e759930cfa0e5077",
+  "_spec": "github:mineline/node-mapcrafter#master",
+  "_where": "/Users/freddy/Sites/mineland.no/public",
+  "author": {
+    "name": "Smafe Productions",
+    "email": "h@smafe.com",
+    "url": "https://www.smafe.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/mineline/node-mapcrafter/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.6.0"
+  },
+  "deprecated": false,
+  "description": "Run and handle mapcrafter from node.",
+  "devDependencies": {},
+  "homepage": "https://github.com/mineline/node-mapcrafter#readme",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "node-mapcrafter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mineline/node-mapcrafter.git"
+  },
+  "version": "0.0.1"
+}
